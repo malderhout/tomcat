@@ -1,5 +1,5 @@
 FROM centos:centos7 
-MAINTAINER Maikel Alderhout  <malderhout@gmail.como>
+MAINTAINER Maikel Alderhout  <malderhout@gmail.com>
 
 # UPDATE
 RUN yum -y update  
