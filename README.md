@@ -1,4 +1,4 @@
-tomcat
+Tomcat7 with OpenJDK7 on CentOS7
 ======
 
 Build:
